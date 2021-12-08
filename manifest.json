@@ -1,0 +1,16 @@
+{
+  "name": "Progress tracker for strivers sde sheet",
+  "description": "add checkbox next to each question to track your progress",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://*.takeuforward.org/*"],
+      "js": ["jquery-3.6.0.min.js", "content-script.js"]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "128": "icon128.png"
+  }
+}
