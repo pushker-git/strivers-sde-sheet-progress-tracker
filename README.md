@@ -1,6 +1,8 @@
 # strivers-sde-sheet-prgress-tracker
 progress tracker of popular Striver’s SDE Sheet 
 
+![Screen Shot](ss.PNG?raw=true)
+
 # Installation
 You can install it by manual either [download release package](https://github.com/pushker-git/strivers-sde-sheet-progress-tracker/archive/refs/tags/v1.0.0.zip) or [direct crx file](https://github.com/pushker-git/strivers-sde-sheet-progress-tracker/raw/main/striver-code-sheet-progress-ext.crx). 
 
