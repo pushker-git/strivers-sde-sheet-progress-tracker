@@ -1,4 +1,4 @@
-# strivers-sde-sheet-prgress-tracker (Google chrome extension)
+# strivers-sde-sheet-progress-tracker (Chrome extension)
 progress tracker of popular Striver’s SDE Sheet 
 
 ![Screen Shot](ss.PNG?raw=true)
