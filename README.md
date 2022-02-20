@@ -1,3 +1,5 @@
+## Download v2.0.0 of extension to fix new HTML page design.
+
 # strivers-sde-sheet-progress-tracker (Chrome extension)
 progress tracker of popular Striver’s SDE Sheet 
 
